@@ -1,6 +1,6 @@
 const size = 8; // Размер доски
-const whiteCell = '?'; // Символ для белой клетки
-const blackCell = '!'; // Символ для черной клетки
+const whiteCell = '██'; // Символ для белой клетки
+const blackCell = '  '; // Символ для черной клетки
 
 for (let i = 0; i < size; i++) {
   let row = '';
